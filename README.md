@@ -52,4 +52,16 @@ My public portfolio is available at [here](https://audits.sherlock.xyz/watson/et
 | Doppler | Yield | 2025-8 | Zenith |
 | Think Staking | Staking | 2025-8 | Burra Security |
 | Thrackle | RulesEngine | 2025-8 | Zenith |
+| Infrared | Rewards | 2025-8 | Zenith |
+| BeraChain | Rewards | 2025-8 | Zenith |
+| Holograph | Cross-Chain Staking | 2025-9 | Zenith |
+| RubiFi | HyperEVM | 2025-9 | Zenith |
+| Infrared | AirDrop | 2025-9 | Zenith |
+| Monorail | DEX, Orderbook, AMM | 2025-10 | Zenith |
+| Kinetk | Name Service | 2025-10 | Zenith |
+| BeraChain(Meta Aggregator) | Rewards | 2025-10 | Zenith |
+| BeraChain | Staking | 2025-10 | Zenith |
+| Ventuals | HyperLiquid, Liquid Staking | 2025-10 | Zenith |
+| Likwid | DeFi | 2025-10 | Zenith |
+
 
