@@ -62,6 +62,6 @@ My public portfolio is available at [here](https://audits.sherlock.xyz/watson/et
 | BeraChain(Meta Aggregator) | Rewards | 2025-10 | Zenith |
 | BeraChain | Staking | 2025-10 | Zenith |
 | Ventuals | HyperLiquid, Liquid Staking | 2025-10 | Zenith |
-| Likwid | DeFi | 2025-10 | Zenith |
+
 
 
